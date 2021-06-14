@@ -1,0 +1,18 @@
+.carousel-item-next,
+.carousel-item-prev,
+.carousel-item-active{
+    position: absolute;
+    top: 0;
+}
+.carousel-caption h2{
+    color: #fff;
+}
+.carousel-img{
+    height: 30px;
+    padding: 30px;
+    margin: 40px;
+    border-radius: 50%;
+}
+.carousel a{
+    margin: 0 auto;
+}
